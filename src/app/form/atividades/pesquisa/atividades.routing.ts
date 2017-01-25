@@ -1,1 +1,0 @@
-import { Routes, RouterModule } from '@angular/router';  import { AtividadesComponent } from './atividades.component';  const atividades_routes: Routes = [   { path: 'atividades*', pathMatch:'full', redirectTo: '/atividades' },   { path: 'atividades', component: AtividadesComponent} ];  export const atividades_routing = RouterModule.forChild(atividades_routes);

@@ -1,1 +1,0 @@
-export class Cronograma_manutencao{cd_cronograma_manutencao : number;cd_manutencao_preventiva : number;cd_usuario : number;dt_previsao_inicio : string;hr_previsao_inicio : string;dt_execucao : string;hr_execucao : string;st_cronograma_manutencao : number;cd_unidade : number;cd_responsavel_verificacao : number;}

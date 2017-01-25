@@ -1,1 +1,0 @@
-export * from './equipamento_dados.component';export * from './equipamento_dadosDetails.component';export * from './equipamento_dadosEdit.component';

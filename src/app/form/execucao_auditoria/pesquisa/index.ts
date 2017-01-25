@@ -1,1 +1,0 @@
-export * from './execucao_auditoria.component';

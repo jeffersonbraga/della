@@ -1,1 +1,0 @@
-export * from './tipo_campo.component';

@@ -1,1 +1,0 @@
-export * from './config_envio_indicadores_dados.component';export * from './config_envio_indicadores_dadosDetails.component';export * from './config_envio_indicadores_dadosEdit.component';

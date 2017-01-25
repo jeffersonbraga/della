@@ -1,1 +1,0 @@
-export class Jhi_user_authority{user_id : number;authority_name : string;}

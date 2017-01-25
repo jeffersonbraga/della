@@ -1,1 +1,0 @@
-export class Pre_avaliacao_ideia_pic{cd_pre_avaliacao_ideia_pic : number;cd_ideia_reuniao_pic : number;tp_avaliacao : number;cd_participantes_reuniao_pic : number;}

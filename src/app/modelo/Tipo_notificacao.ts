@@ -1,1 +1,0 @@
-export class Tipo_notificacao{cd_tipo_notificacao : number;ds_tipo_notificacao : string;ds_caminho_classe : string;}

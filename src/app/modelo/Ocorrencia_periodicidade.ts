@@ -1,1 +1,0 @@
-export class Ocorrencia_periodicidade{cd_ocorrencia_periodicidade : number;dt_ocorrencia_periodicidade : string;dt_expirar : string;cd_periodicidade : number;}

@@ -1,1 +1,0 @@
-export * from './setor_dados.component';export * from './setor_dadosDetails.component';export * from './setor_dadosEdit.component';

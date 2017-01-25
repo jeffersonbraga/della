@@ -1,1 +1,0 @@
-export * from './campo_formulario.component';

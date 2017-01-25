@@ -1,1 +1,0 @@
-export * from './plano_acao_ocorrencia.component';

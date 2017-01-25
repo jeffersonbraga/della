@@ -1,1 +1,0 @@
-export * from './pergunta_avaliacao_ideia_dados.component';export * from './pergunta_avaliacao_ideia_dadosDetails.component';export * from './pergunta_avaliacao_ideia_dadosEdit.component';

@@ -1,1 +1,0 @@
-export * from './ideia_reuniao_pic_dados.component';export * from './ideia_reuniao_pic_dadosDetails.component';export * from './ideia_reuniao_pic_dadosEdit.component';

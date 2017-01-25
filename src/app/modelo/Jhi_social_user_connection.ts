@@ -1,1 +1,0 @@
-export class Jhi_social_user_connection{id : number;user_id : string;provider_id : string;provider_user_id : string;rank : number;display_name : string;profile_url : string;image_url : string;access_token : string;secret : string;refresh_token : string;expire_time : number;}

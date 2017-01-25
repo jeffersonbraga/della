@@ -1,1 +1,0 @@
-export * from './config_campo_pesquisa.component';

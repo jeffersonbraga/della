@@ -1,1 +1,0 @@
-import { Routes, RouterModule } from '@angular/router';  import { CompraComponent } from './compra.component';  const compra_routes: Routes = [   { path: 'compra*', pathMatch:'full', redirectTo: '/compra' },   { path: 'compra', component: CompraComponent} ];  export const compra_routing = RouterModule.forChild(compra_routes);

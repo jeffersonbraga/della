@@ -1,1 +1,0 @@
-export class Log_documento{cd_log_documento : number;cd_usuario : number;cd_documento : number;dt_log_documento : string;tp_log_documento : number;nm_documento : number;}

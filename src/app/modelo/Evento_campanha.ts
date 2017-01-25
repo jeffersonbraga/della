@@ -1,1 +1,0 @@
-export class Evento_campanha{cd_evento_campanha : number;nm_evento_campanha : string;dt_evento_campanha : string;ds_local_evento_campanha : string;ds_evento_campanha : string;ds_participantes : string;ds_olho_texto : string;}

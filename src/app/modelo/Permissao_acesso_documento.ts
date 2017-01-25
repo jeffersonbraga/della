@@ -1,1 +1,0 @@
-export class Permissao_acesso_documento{cd_permissao_acesso_documento : number;cd_colaborador : number;vl_impressao_cc : number;vl_impressao_cnc : number;cd_documento : number;vl_visualizar_cc : number;vl_visualizar_cnc : number;vl_download_cc : number;vl_download_cnc : number;}

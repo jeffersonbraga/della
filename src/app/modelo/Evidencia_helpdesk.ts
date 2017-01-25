@@ -1,1 +1,0 @@
-export class Evidencia_helpdesk{cd_evidencia_helpdesk : number;cd_helpdesk_ocorrencia : number;ds_caminho_evidencia : number;nm_evidencia : string;}

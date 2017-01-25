@@ -1,1 +1,0 @@
-export class Codigosfixos{cd_codigosfixos : number;cd_campo : number;ds_descricao : string;vl_valor : number;tp_padrao : number;}

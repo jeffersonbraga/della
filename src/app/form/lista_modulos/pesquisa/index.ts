@@ -1,1 +1,0 @@
-export * from './lista_modulos.component';

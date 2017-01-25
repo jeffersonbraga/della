@@ -1,1 +1,0 @@
-export class Acao_corretiva_formulario{cd_acao_corretiva_formulario : number;cd_formulario : number;cd_acao_corretiva : number;}

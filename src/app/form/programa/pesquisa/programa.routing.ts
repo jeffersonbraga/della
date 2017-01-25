@@ -1,1 +1,0 @@
-import { Routes, RouterModule } from '@angular/router';  import { ProgramaComponent } from './programa.component';  const programa_routes: Routes = [   { path: 'programa*', pathMatch:'full', redirectTo: '/programa' },   { path: 'programa', component: ProgramaComponent} ];  export const programa_routing = RouterModule.forChild(programa_routes);

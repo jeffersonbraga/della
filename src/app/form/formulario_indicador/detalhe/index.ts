@@ -1,1 +1,0 @@
-export * from './formulario_indicador_dados.component';export * from './formulario_indicador_dadosDetails.component';export * from './formulario_indicador_dadosEdit.component';

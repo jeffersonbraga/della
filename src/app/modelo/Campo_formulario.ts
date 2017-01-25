@@ -1,1 +1,0 @@
-export class Campo_formulario{cd_campo_formulario : number;cd_grupo_formulario : number;cd_tipo_campo : number;ds_campo_formulario : number;nm_campo_formulario : number;ds_formula : number;nr_casas_decimais : number;tp_campo_mapa : number;tp_identificador : number;st_obrigatorio : number;tp_descricao : number;}

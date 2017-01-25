@@ -1,1 +1,0 @@
-export * from './bug_report_dados.component';export * from './bug_report_dadosDetails.component';export * from './bug_report_dadosEdit.component';

@@ -1,1 +1,0 @@
-export * from './helpdesk_ocorrencia.component';

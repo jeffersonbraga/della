@@ -1,1 +1,0 @@
-export class Classificacao_auditoria{cd_classificacao_auditoria : number;nm_classificacao_auditoria : string;ds_classificacao_auditoria : number;}

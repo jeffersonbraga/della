@@ -1,1 +1,0 @@
-export * from './ponto_mapa_dados.component';export * from './ponto_mapa_dadosDetails.component';export * from './ponto_mapa_dadosEdit.component';

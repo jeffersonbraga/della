@@ -1,1 +1,0 @@
-export * from './reuniao_pic_dados.component';export * from './reuniao_pic_dadosDetails.component';export * from './reuniao_pic_dadosEdit.component';

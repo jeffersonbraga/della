@@ -1,1 +1,0 @@
-export class Sub_formulario{cd_sub_formulario : number;cd_formulario : number;vl_filtro : number;ds_sub_formulario : string;}

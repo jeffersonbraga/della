@@ -1,1 +1,0 @@
-export class Jhi_persistent_token{series : string;user_id : number;token_value : string;token_date : string;ip_address : string;user_agent : string;}

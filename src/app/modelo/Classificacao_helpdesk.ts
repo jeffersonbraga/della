@@ -1,1 +1,0 @@
-export class Classificacao_helpdesk{cd_classificacao_helpdesk : number;ds_classificacao_helpdesk : number;}

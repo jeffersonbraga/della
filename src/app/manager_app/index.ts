@@ -1,1 +1,0 @@
-export * from './manager_app.component';

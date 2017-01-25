@@ -1,1 +1,0 @@
-import { Routes, RouterModule } from '@angular/router';  import { AnexoComponent } from './anexo.component';  const anexo_routes: Routes = [   { path: 'anexo*', pathMatch:'full', redirectTo: '/anexo' },   { path: 'anexo', component: AnexoComponent} ];  export const anexo_routing = RouterModule.forChild(anexo_routes);

@@ -1,1 +1,0 @@
-export * from './evento_campanha.component';

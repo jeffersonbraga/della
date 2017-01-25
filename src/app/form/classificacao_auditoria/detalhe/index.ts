@@ -1,1 +1,0 @@
-export * from './classificacao_auditoria_dados.component';export * from './classificacao_auditoria_dadosDetails.component';export * from './classificacao_auditoria_dadosEdit.component';

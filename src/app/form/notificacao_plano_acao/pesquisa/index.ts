@@ -1,1 +1,0 @@
-export * from './notificacao_plano_acao.component';

@@ -1,1 +1,0 @@
-export * from './menu_indicadores.component';

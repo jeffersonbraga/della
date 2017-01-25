@@ -1,1 +1,0 @@
-export class Bug_report{cd_bug_report : number;cd_programa : number;cd_usuario_reportador : number;ds_descricao_bug : number;}

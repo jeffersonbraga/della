@@ -1,1 +1,0 @@
-export class Executar_manutencao{cd_executar_manutencao : number;cd_cronograma_manutencao : number;cd_equipamento : number;nr_tempo_previsto : number;st_executar_manutencao : number;dt_verificacao : string;cd_usuario_verificacao : number;tp_parecer_tecnico : number;dt_inicio_execucao : string;dt_termino_execucao : string;}

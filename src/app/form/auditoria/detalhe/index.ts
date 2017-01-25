@@ -1,1 +1,0 @@
-export * from './auditoria_dados.component';export * from './auditoria_dadosDetails.component';export * from './auditoria_dadosEdit.component';

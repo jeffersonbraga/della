@@ -1,1 +1,0 @@
-export * from './estado_dados.component';export * from './estado_dadosDetails.component';export * from './estado_dadosEdit.component';

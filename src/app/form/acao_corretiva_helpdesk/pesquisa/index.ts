@@ -1,1 +1,0 @@
-export * from './acao_corretiva_helpdesk.component';

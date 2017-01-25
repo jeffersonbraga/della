@@ -1,1 +1,0 @@
-export * from './escalonamento_formulario.component';

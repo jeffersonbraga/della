@@ -1,1 +1,0 @@
-export * from './ocorrencia_ouvidoria_dados.component';export * from './ocorrencia_ouvidoria_dadosDetails.component';export * from './ocorrencia_ouvidoria_dadosEdit.component';

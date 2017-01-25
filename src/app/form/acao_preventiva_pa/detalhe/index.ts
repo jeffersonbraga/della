@@ -1,1 +1,0 @@
-export * from './acao_preventiva_pa_dados.component';export * from './acao_preventiva_pa_dadosDetails.component';export * from './acao_preventiva_pa_dadosEdit.component';

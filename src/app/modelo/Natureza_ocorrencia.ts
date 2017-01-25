@@ -1,1 +1,0 @@
-export class Natureza_ocorrencia{cd_natureza_ocorrencia : number;ds_natureza_ocorrencia : number;cd_classificacao_helpdesk : number;}

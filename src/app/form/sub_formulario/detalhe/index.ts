@@ -1,1 +1,0 @@
-export * from './sub_formulario_dados.component';export * from './sub_formulario_dadosDetails.component';export * from './sub_formulario_dadosEdit.component';

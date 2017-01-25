@@ -1,1 +1,0 @@
-export class Unidade{cd_unidade : number;ds_unidade : string;st_unidade : number;cd_empresa : number;cd_responsavel_unidade : number;}

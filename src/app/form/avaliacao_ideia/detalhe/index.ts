@@ -1,1 +1,0 @@
-export * from './avaliacao_ideia_dados.component';export * from './avaliacao_ideia_dadosDetails.component';export * from './avaliacao_ideia_dadosEdit.component';

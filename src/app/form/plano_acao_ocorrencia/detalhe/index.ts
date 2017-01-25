@@ -1,1 +1,0 @@
-export * from './plano_acao_ocorrencia_dados.component';export * from './plano_acao_ocorrencia_dadosDetails.component';export * from './plano_acao_ocorrencia_dadosEdit.component';

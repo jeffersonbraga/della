@@ -1,1 +1,0 @@
-export * from './exame_funcao_dados.component';export * from './exame_funcao_dadosDetails.component';export * from './exame_funcao_dadosEdit.component';

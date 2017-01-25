@@ -1,1 +1,0 @@
-export class Config_sistema{cd_config_sistema : number;st_gerar_permissao : number;st_gerar_plano_acao : number;st_validar_campos : number;cd_sistema : number;st_verif_status : number;nr_intervalo_verif : number;}

@@ -1,1 +1,0 @@
-export class Campospesquisa{cd_campospesquisa : number;cd_programa : number;cd_campo : number;st_listapesquisa : number;st_gridpesquisa : number;st_filtro_pesquisa : number;}

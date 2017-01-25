@@ -1,1 +1,0 @@
-export * from './descritivo_treinamento_dados.component';export * from './descritivo_treinamento_dadosDetails.component';export * from './descritivo_treinamento_dadosEdit.component';

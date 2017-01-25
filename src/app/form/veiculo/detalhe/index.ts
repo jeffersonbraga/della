@@ -1,1 +1,0 @@
-export * from './veiculo_dados.component';export * from './veiculo_dadosDetails.component';export * from './veiculo_dadosEdit.component';

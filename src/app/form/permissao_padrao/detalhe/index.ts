@@ -1,1 +1,0 @@
-export * from './permissao_padrao_dados.component';export * from './permissao_padrao_dadosDetails.component';export * from './permissao_padrao_dadosEdit.component';

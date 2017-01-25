@@ -1,1 +1,0 @@
-export * from './grupo_auditoria.component';

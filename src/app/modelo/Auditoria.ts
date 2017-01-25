@@ -1,1 +1,0 @@
-export class Auditoria{cd_auditoria : number;cd_usuario : number;nm_auditoria : string;dt_criacao : string;ds_auditoria : number;}

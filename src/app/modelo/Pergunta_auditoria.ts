@@ -1,1 +1,0 @@
-export class Pergunta_auditoria{cd_pergunta_auditoria : number;cd_grupo_auditoria : number;ds_pergunta_auditoria : string;nr_ordem_pergunta : number;vl_valor_pergunta : string;}

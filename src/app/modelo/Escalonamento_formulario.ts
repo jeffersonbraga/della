@@ -1,1 +1,0 @@
-export class Escalonamento_formulario{cd_escalonamento_formulario : number;cd_formulario : number;cd_sub_formulario : number;cd_usuario : number;hr_execucao : string;dt_inicio_vigencia : string;dt_termino_vigencia : string;cd_unidade : number;}

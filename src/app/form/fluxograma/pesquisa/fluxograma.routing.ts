@@ -1,1 +1,0 @@
-import { Routes, RouterModule } from '@angular/router';  import { FluxogramaComponent } from './fluxograma.component';  const fluxograma_routes: Routes = [   { path: 'fluxograma*', pathMatch:'full', redirectTo: '/fluxograma' },   { path: 'fluxograma', component: FluxogramaComponent} ];  export const fluxograma_routing = RouterModule.forChild(fluxograma_routes);

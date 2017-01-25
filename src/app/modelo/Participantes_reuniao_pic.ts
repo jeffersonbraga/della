@@ -1,1 +1,0 @@
-export class Participantes_reuniao_pic{cd_participantes_reuniao_pic : number;cd_reuniao_pic : number;tp_presenca : string;cd_pessoa : number;tp_confirmacao_presenca : number;}

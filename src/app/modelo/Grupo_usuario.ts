@@ -1,1 +1,0 @@
-export class Grupo_usuario{cd_grupo_usuario : number;nm_grupo_usuario : string;ds_grupo_usuario : number;}

@@ -1,1 +1,0 @@
-export class Grupo_formulario{cd_grupo_formulario : number;cd_formulario : number;cd_sub_formulario : number;cd_grupo_pai : number;nm_grupo_formulario : string;tp_grupo_formulario : number;}

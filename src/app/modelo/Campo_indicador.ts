@@ -1,1 +1,0 @@
-export class Campo_indicador{cd_campo_indicador : number;cd_campo_formulario : number;cd_formulario : number;cd_formulario_indicador : number;}

@@ -1,1 +1,0 @@
-export class Atividades{cd_atividades : number;nm_atividades : string;ds_atividades : number;}

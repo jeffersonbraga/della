@@ -1,1 +1,0 @@
-export * from './atividades_dados.component';export * from './atividades_dadosDetails.component';export * from './atividades_dadosEdit.component';

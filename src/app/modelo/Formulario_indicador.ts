@@ -1,1 +1,0 @@
-export class Formulario_indicador{cd_formulario_indicador : number;cd_indicador_customizado : number;cd_formulario : number;}

@@ -1,1 +1,0 @@
-export class Config_impressao{cd_config_impressao : number;cd_documento : number;nr_copias_fisicas : number;tp_config_impressao : number;}

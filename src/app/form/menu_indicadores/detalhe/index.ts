@@ -1,1 +1,0 @@
-export * from './menu_indicadores_dados.component';export * from './menu_indicadores_dadosDetails.component';export * from './menu_indicadores_dadosEdit.component';

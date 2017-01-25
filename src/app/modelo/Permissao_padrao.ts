@@ -1,1 +1,0 @@
-export class Permissao_padrao{cd_permissao_padrao : number;cd_programa : number;cd_config_sistema : number;}

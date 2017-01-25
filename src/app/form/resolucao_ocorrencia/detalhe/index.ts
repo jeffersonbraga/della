@@ -1,1 +1,0 @@
-export * from './resolucao_ocorrencia_dados.component';export * from './resolucao_ocorrencia_dadosDetails.component';export * from './resolucao_ocorrencia_dadosEdit.component';

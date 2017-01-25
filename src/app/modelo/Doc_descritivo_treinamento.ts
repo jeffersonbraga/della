@@ -1,1 +1,0 @@
-export class Doc_descritivo_treinamento{cd_doc_descritivo_treinamento : number;cd_descritivo_treinamento : number;ds_documento : string;ds_local_armazenamento : string;}

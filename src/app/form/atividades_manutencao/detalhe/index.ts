@@ -1,1 +1,0 @@
-export * from './atividades_manutencao_dados.component';export * from './atividades_manutencao_dadosDetails.component';export * from './atividades_manutencao_dadosEdit.component';

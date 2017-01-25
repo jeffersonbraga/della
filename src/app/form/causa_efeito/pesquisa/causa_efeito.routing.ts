@@ -1,1 +1,0 @@
-import { Routes, RouterModule } from '@angular/router';  import { Causa_efeitoComponent } from './causa_efeito.component';  const causa_efeito_routes: Routes = [   { path: 'causa_efeito*', pathMatch:'full', redirectTo: '/causa_efeito' },   { path: 'causa_efeito', component: Causa_efeitoComponent} ];  export const causa_efeito_routing = RouterModule.forChild(causa_efeito_routes);

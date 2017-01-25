@@ -1,1 +1,0 @@
-export class Faixa_class_auditoria{cd_faixa_class_auditoria : number;cd_classificacao_auditoria : number;ds_faixa_class_auditoria : string;vl_minimo : number;vl_maximo : number;}

@@ -1,1 +1,0 @@
-export class Condicao{cd_condicao : number;nm_condicao : string;ds_sinal_condicao : string;tp_operacao : number;}

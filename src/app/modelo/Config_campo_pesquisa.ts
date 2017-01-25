@@ -1,1 +1,0 @@
-export class Config_campo_pesquisa{cd_config_campo_pesquisa : number;cd_config_pesquisa : number;cd_campo : number;nm_campo : string;ds_label : number;cd_tabelaorigem : number;ds_pesquisa : number;}

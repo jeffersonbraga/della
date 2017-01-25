@@ -1,1 +1,0 @@
-export * from './pre_avaliacao_ideia_pic.component';

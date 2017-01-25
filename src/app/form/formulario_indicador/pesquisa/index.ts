@@ -1,1 +1,0 @@
-export * from './formulario_indicador.component';

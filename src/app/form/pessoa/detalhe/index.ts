@@ -1,1 +1,0 @@
-export * from './pessoa_dados.component';export * from './pessoa_dadosDetails.component';export * from './pessoa_dadosEdit.component';

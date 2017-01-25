@@ -1,1 +1,0 @@
-export * from './compra_dados.component';export * from './compra_dadosDetails.component';export * from './compra_dadosEdit.component';

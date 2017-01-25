@@ -1,1 +1,0 @@
-export * from './acao_corretiva_dados.component';export * from './acao_corretiva_dadosDetails.component';export * from './acao_corretiva_dadosEdit.component';

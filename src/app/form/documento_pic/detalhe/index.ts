@@ -1,1 +1,0 @@
-export * from './documento_pic_dados.component';export * from './documento_pic_dadosDetails.component';export * from './documento_pic_dadosEdit.component';

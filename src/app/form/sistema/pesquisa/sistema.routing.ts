@@ -1,1 +1,0 @@
-import { Routes, RouterModule } from '@angular/router';  import { SistemaComponent } from './sistema.component';  const sistema_routes: Routes = [   { path: 'sistema*', pathMatch:'full', redirectTo: '/sistema' },   { path: 'sistema', component: SistemaComponent} ];  export const sistema_routing = RouterModule.forChild(sistema_routes);

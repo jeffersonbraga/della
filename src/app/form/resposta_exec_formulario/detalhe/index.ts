@@ -1,1 +1,0 @@
-export * from './resposta_exec_formulario_dados.component';export * from './resposta_exec_formulario_dadosDetails.component';export * from './resposta_exec_formulario_dadosEdit.component';

@@ -1,1 +1,0 @@
-export class Doc_revisao_formulario{cd_doc_revisao_formulario : number;nm_doc_revisao_formulario : string;ds_local_armazenamento : number;cd_revisao_programa_qualidade : number;vl_aprovada : string;}

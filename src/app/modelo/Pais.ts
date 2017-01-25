@@ -1,1 +1,0 @@
-export class Pais{cd_pais : number;nm_pais : string;ds_sigla : string;}

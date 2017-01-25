@@ -1,1 +1,0 @@
-export * from './acao_preventiva_formulario.component';

@@ -1,1 +1,0 @@
-export * from './descricao_funcional.component';

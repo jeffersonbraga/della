@@ -1,1 +1,0 @@
-export class Notificacao_automatica{cd_notificacao_automatica : number;cd_tipo_notificacao : number;cd_tabela : number;cd_codigo_parametro : number;cd_periodicidade : number;dt_inicio : string;dt_fim : string;dt_ultimo_envio : string;ds_assunto : number;ds_conteudo : number;ds_remetente : number;cd_operacao_notificacao : number;}

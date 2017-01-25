@@ -1,1 +1,0 @@
-export * from './rota_destino.component';

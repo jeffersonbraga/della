@@ -1,1 +1,0 @@
-export * from './escala_tempo_dados.component';export * from './escala_tempo_dadosDetails.component';export * from './escala_tempo_dadosEdit.component';

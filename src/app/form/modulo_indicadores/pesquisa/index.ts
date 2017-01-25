@@ -1,1 +1,0 @@
-export * from './modulo_indicadores.component';

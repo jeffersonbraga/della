@@ -1,1 +1,0 @@
-export class Manutencao_preventiva{cd_manutencao_preventiva : number;cd_periodicidade : number;nm_manutencao_preventiva : number;cd_equipamento : number;dt_inicio : string;dt_termino : string;tp_aviso_previo : number;tp_responsavel : number;nr_custo_previsto : number;tp_prioridade : number;nr_tempo_estimado : number;cd_pessoa_juridica : number;cd_unidade : number;}

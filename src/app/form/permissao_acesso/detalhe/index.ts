@@ -1,1 +1,0 @@
-export * from './permissao_acesso_dados.component';export * from './permissao_acesso_dadosDetails.component';export * from './permissao_acesso_dadosEdit.component';

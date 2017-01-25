@@ -1,1 +1,0 @@
-export * from './avaliacao_ideia.component';

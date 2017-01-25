@@ -1,1 +1,0 @@
-export * from './mapa_calor.component';

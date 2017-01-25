@@ -1,1 +1,0 @@
-export class Jhi_user{id : number;login : string;password_hash : string;first_name : string;last_name : string;email : string;activated : string;lang_key : string;activation_key : string;reset_key : string;created_by : string;created_date : string;reset_date : string;last_modified_by : string;last_modified_date : string;}

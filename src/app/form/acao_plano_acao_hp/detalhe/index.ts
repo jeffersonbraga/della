@@ -1,1 +1,0 @@
-export * from './acao_plano_acao_hp_dados.component';export * from './acao_plano_acao_hp_dadosDetails.component';export * from './acao_plano_acao_hp_dadosEdit.component';

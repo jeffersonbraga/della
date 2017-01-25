@@ -1,1 +1,0 @@
-export * from './campo_formulario_dados.component';export * from './campo_formulario_dadosDetails.component';export * from './campo_formulario_dadosEdit.component';

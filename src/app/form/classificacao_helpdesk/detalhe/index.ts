@@ -1,1 +1,0 @@
-export * from './classificacao_helpdesk_dados.component';export * from './classificacao_helpdesk_dadosDetails.component';export * from './classificacao_helpdesk_dadosEdit.component';

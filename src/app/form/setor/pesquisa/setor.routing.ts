@@ -1,1 +1,0 @@
-import { Routes, RouterModule } from '@angular/router';  import { SetorComponent } from './setor.component';  const setor_routes: Routes = [   { path: 'setor*', pathMatch:'full', redirectTo: '/setor' },   { path: 'setor', component: SetorComponent} ];  export const setor_routing = RouterModule.forChild(setor_routes);

@@ -1,1 +1,0 @@
-export class Pic{cd_pic : number;cd_colaborador : number;nm_usuario : number;ds_email : number;nr_fone : number;tp_area_aplicacao : number;ds_ideia : number;ds_detalhamento : number;dt_ideia : string;}

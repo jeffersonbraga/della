@@ -1,1 +1,0 @@
-export * from './natureza_ocorrencia_dados.component';export * from './natureza_ocorrencia_dadosDetails.component';export * from './natureza_ocorrencia_dadosEdit.component';

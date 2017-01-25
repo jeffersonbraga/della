@@ -1,1 +1,0 @@
-export * from './candidato_dados.component';export * from './candidato_dadosDetails.component';export * from './candidato_dadosEdit.component';

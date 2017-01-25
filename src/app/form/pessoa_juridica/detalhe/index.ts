@@ -1,1 +1,0 @@
-export * from './pessoa_juridica_dados.component';export * from './pessoa_juridica_dadosDetails.component';export * from './pessoa_juridica_dadosEdit.component';

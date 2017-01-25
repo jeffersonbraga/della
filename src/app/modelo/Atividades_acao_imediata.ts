@@ -1,1 +1,0 @@
-export class Atividades_acao_imediata{cd_atividades_acao_imediata : number;cd_acao_corretiva_helpdesk : number;cd_atividades : number;ds_atividades : string;cd_responsavel : number;dt_prazo_previsto : string;st_status : number;}

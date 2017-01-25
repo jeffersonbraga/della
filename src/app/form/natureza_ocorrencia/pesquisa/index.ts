@@ -1,1 +1,0 @@
-export * from './natureza_ocorrencia.component';

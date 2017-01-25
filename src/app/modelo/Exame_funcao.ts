@@ -1,1 +1,0 @@
-export class Exame_funcao{cd_exame_funcao : number;cd_exame_medico : number;cd_descricao_funcional : number;}

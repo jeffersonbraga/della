@@ -1,1 +1,0 @@
-import { Routes, RouterModule } from '@angular/router';  import { FormularioComponent } from './formulario.component';  const formulario_routes: Routes = [   { path: 'formulario*', pathMatch:'full', redirectTo: '/formulario' },   { path: 'formulario', component: FormularioComponent} ];  export const formulario_routing = RouterModule.forChild(formulario_routes);

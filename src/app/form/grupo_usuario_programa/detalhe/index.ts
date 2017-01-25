@@ -1,1 +1,0 @@
-export * from './grupo_usuario_programa_dados.component';export * from './grupo_usuario_programa_dadosDetails.component';export * from './grupo_usuario_programa_dadosEdit.component';

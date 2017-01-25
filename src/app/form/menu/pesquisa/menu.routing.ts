@@ -1,1 +1,0 @@
-import { Routes, RouterModule } from '@angular/router';  import { MenuComponent } from './menu.component';  const menu_routes: Routes = [   { path: 'menu*', pathMatch:'full', redirectTo: '/menu' },   { path: 'menu', component: MenuComponent} ];  export const menu_routing = RouterModule.forChild(menu_routes);

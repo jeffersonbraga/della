@@ -1,1 +1,0 @@
-export * from './reuniao_pic.component';

@@ -1,1 +1,0 @@
-import { Routes, RouterModule } from '@angular/router';  import { FabricanteComponent } from './fabricante.component';  const fabricante_routes: Routes = [   { path: 'fabricante*', pathMatch:'full', redirectTo: '/fabricante' },   { path: 'fabricante', component: FabricanteComponent} ];  export const fabricante_routing = RouterModule.forChild(fabricante_routes);

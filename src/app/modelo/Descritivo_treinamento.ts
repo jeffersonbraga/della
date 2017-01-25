@@ -1,1 +1,0 @@
-export class Descritivo_treinamento{cd_descritivo_treinamento : number;nm_descritivo_treinamento : string;ds_objetivo : string;ds_interessados : string;ds_quando : string;ds_como : number;ds_conteudo : number;nr_carga_horaria : number;ds_metodologia_eficacia : number;ds_parecer_avaliacao : number;}

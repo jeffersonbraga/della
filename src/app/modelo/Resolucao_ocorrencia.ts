@@ -1,1 +1,0 @@
-export class Resolucao_ocorrencia{cd_resolucao_ocorrencia : number;cd_ocorrencia_ouvidoria : number;dt_resolucao_ocorrencia : string;ds_resposta_reclamante : number;st_ocorrencia_ouvidoria : number;st_resolucao_ocorrencia : number;}

@@ -1,1 +1,0 @@
-export * from './permissao_acesso.component';

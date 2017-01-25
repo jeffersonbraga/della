@@ -1,1 +1,0 @@
-export * from './atividade_plano_acao_dados.component';export * from './atividade_plano_acao_dadosDetails.component';export * from './atividade_plano_acao_dadosEdit.component';

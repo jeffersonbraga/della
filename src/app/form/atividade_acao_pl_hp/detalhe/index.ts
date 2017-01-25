@@ -1,1 +1,0 @@
-export * from './atividade_acao_pl_hp_dados.component';export * from './atividade_acao_pl_hp_dadosDetails.component';export * from './atividade_acao_pl_hp_dadosEdit.component';

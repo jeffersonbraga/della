@@ -1,1 +1,0 @@
-export class Categoria_ishikawa{cd_categoria_ishikawa : number;nm_categoria_ishikawa : number;}

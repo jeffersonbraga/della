@@ -1,1 +1,0 @@
-export class Acao_preventiva_pa{cd_acao_preventiva_pa : number;cd_plano_acao : number;cd_acao_preventiva : number;}

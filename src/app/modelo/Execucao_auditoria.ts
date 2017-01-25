@@ -1,1 +1,0 @@
-export class Execucao_auditoria{cd_execucao_auditoria : number;cd_planos_cronograma_auditoria : number;}

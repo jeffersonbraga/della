@@ -1,1 +1,0 @@
-export * from './checagem_documento.component';

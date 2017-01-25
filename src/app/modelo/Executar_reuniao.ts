@@ -1,1 +1,0 @@
-export class Executar_reuniao{cd_executar_reuniao : number;cd_reuniao : number;dt_inicio_realizacao : string;dt_fim_realizacao : string;st_executar_reuniao : number;ds_ata : number;}

@@ -1,1 +1,0 @@
-export class Modulo_indicadores{cd_modulo_indicadores : number;ds_modulo_indicadores : number;}

@@ -1,1 +1,0 @@
-export class Lista_modulos{cd_lista_modulos : number;cd_modulo : number;}

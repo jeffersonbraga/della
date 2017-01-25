@@ -1,1 +1,0 @@
-export class Ocorrencia{cd_ocorrencia : number;cd_atividade : number;cd_usuario : number;dt_ocorrencia : string;ds_ocorrencia : number;st_atividade : number;}

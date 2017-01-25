@@ -1,1 +1,0 @@
-export class Ponto_mapa{cd_ponto_mapa : number;cd_mapa_formulario : number;vl_x : number;vl_y : number;cd_campo_formulario : number;nm_ponto_mapa : number;}

@@ -1,1 +1,0 @@
-export * from './atividades_acao_imediata.component';

@@ -1,1 +1,0 @@
-import { Routes, RouterModule } from '@angular/router';  import { NotificacaoComponent } from './notificacao.component';  const notificacao_routes: Routes = [   { path: 'notificacao*', pathMatch:'full', redirectTo: '/notificacao' },   { path: 'notificacao', component: NotificacaoComponent} ];  export const notificacao_routing = RouterModule.forChild(notificacao_routes);

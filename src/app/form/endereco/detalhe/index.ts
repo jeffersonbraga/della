@@ -1,1 +1,0 @@
-export * from './endereco_dados.component';export * from './endereco_dadosDetails.component';export * from './endereco_dadosEdit.component';

@@ -1,1 +1,0 @@
-export class Pergunta_avaliacao_ideia{cd_pergunta_avaliacao_ideia : number;cd_avaliacao_ideia : number;ds_pergunta_avaliacao_ideia : number;nr_nota_pgt_avl_ideia : number;}

@@ -1,1 +1,0 @@
-export class Sistema{cd_sistema : number;nm_sistema : number;}

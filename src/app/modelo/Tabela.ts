@@ -1,1 +1,0 @@
-export class Tabela{cd_tabela : number;nm_tabela : string;ds_tabela : string;ds_chaveprimaria : string;ds_caminhoclasse : number;ds_descricao : number;tp_visivelprogramas : number;tp_conf_notificacao : number;tp_sincronizar : number;}

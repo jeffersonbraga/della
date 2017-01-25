@@ -1,1 +1,0 @@
-export * from './ocorrencia_periodicidade.component';

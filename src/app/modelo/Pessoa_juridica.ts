@@ -1,1 +1,0 @@
-export class Pessoa_juridica{cd_pessoa_juridica : number;nm_pessoa_juridica : string;nr_cnpj : string;nm_empresarial : string;dt_abertura : string;nm_fantasia : string;st_empresarial : number;nr_telefone : string;ds_email : string;nm_contato : string;ds_site : string;}

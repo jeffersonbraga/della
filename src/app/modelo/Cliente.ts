@@ -1,1 +1,0 @@
-export class Cliente{cd_cliente : number;nr_cnpj : number;ds_email : number;nm_schema : number;nm_cliente : number;dt_validade : string;ds_token : number;}

@@ -1,1 +1,0 @@
-export class Municipio{cd_municipio : number;nm_municipio : string;cd_estado : number;}

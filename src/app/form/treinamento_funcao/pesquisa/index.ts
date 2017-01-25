@@ -1,1 +1,0 @@
-export * from './treinamento_funcao.component';

@@ -1,1 +1,0 @@
-export class Operacao_notificacao{cd_operacao_notificacao : number;ds_operacao_notificacao : number;}

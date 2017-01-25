@@ -1,1 +1,0 @@
-export * from './pergunta_auditoria_dados.component';export * from './pergunta_auditoria_dadosDetails.component';export * from './pergunta_auditoria_dadosEdit.component';

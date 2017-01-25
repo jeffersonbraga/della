@@ -1,1 +1,0 @@
-export class Usuario_setor{cd_usuario_setor : number;cd_usuario : number;tp_responsavel : number;cd_setor : number;}

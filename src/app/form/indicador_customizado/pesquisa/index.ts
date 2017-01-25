@@ -1,1 +1,0 @@
-export * from './indicador_customizado.component';

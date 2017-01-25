@@ -1,1 +1,0 @@
-export class Plano_acao_nc{cd_plano_acao_origem : number;cd_plano_acao_executar : number;cd_plano_acao_nc : number;}

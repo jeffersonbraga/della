@@ -1,1 +1,0 @@
-export class Atividade_acao_pl_hp{cd_atividade_acao_pl_hp : number;cd_acao_plano_acao_hp : number;cd_atividades : number;ds_atividades : number;dt_inicio : string;dt_prazo_previsto : string;dt_realizado : string;cd_usuario_responsavel : number;st_atividade_acao_pl_hp : number;}

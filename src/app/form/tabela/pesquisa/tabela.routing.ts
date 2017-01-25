@@ -1,1 +1,0 @@
-import { Routes, RouterModule } from '@angular/router';  import { TabelaComponent } from './tabela.component';  const tabela_routes: Routes = [   { path: 'tabela*', pathMatch:'full', redirectTo: '/tabela' },   { path: 'tabela', component: TabelaComponent} ];  export const tabela_routing = RouterModule.forChild(tabela_routes);
