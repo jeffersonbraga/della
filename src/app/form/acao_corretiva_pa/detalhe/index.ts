@@ -1,0 +1,1 @@
+export * from './acao_corretiva_pa_dados.component';export * from './acao_corretiva_pa_dadosDetails.component';export * from './acao_corretiva_pa_dadosEdit.component';

@@ -1,0 +1,1 @@
+export class Reuniao_pic{cd_reuniao_pic : number;nm_reuniao_pic : number;dt_inicio_reuniao_pic : string;dt_fim_reuniao_pic : string;st_reuniao_pic : number;cd_usuario_coordenador : number;}

@@ -1,0 +1,1 @@
+export * from './causa_efeito_dados.component';export * from './causa_efeito_dadosDetails.component';export * from './causa_efeito_dadosEdit.component';

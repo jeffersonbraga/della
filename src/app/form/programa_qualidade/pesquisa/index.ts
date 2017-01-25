@@ -1,0 +1,1 @@
+export * from './programa_qualidade.component';

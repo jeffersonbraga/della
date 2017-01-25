@@ -1,0 +1,1 @@
+export * from './doc_revisao_formulario_dados.component';export * from './doc_revisao_formulario_dadosDetails.component';export * from './doc_revisao_formulario_dadosEdit.component';

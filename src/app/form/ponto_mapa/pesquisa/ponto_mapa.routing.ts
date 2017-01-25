@@ -1,0 +1,1 @@
+import { Routes, RouterModule } from '@angular/router';  import { Ponto_mapaComponent } from './ponto_mapa.component';  const ponto_mapa_routes: Routes = [   { path: 'ponto_mapa*', pathMatch:'full', redirectTo: '/ponto_mapa' },   { path: 'ponto_mapa', component: Ponto_mapaComponent} ];  export const ponto_mapa_routing = RouterModule.forChild(ponto_mapa_routes);

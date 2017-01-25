@@ -1,0 +1,1 @@
+export class Classificacao_ouvidoria{cd_classificacao_ouvidoria : number;ds_classificacao_ouvidoria : string;}

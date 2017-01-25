@@ -1,0 +1,39 @@
+<header>
+        <h3><span class="glyphicon glyphicon-user"></span>&nbsp;&nbsp;Registros das pessoas</h3>
+</header> <br />
+<div class="table">
+	<table class="table table-striped table-hover">
+		<thead>
+			<tr>
+				<th sort-by="cd_pessoa" (sorted)="sort($event)">Código</th>
+				<th sort-by="nm_pessoa" (sorted)="sort($event)">Nome</th>
+				<th sort-by="nr_telefone" (sorted)="sort($event)">Telefone</th>
+				<th sort-by="ds_email" (sorted)="sort($event)">Email</th>
+				<th sort-by="st_pessoa" (sorted)="sort($event)">Status</th>
+				<th sort-by="tp_situacao" (sorted)="sort($event)">Situacao</th>
+				<th sort-by="tp_situacao" (sorted)="sort($event)">&nbsp;</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr *ngFor="let itemPessoa of listaDados;">
+				<td>{{ itemPessoa.cd_pessoa}}</td>
+				<td>{{ itemPessoa.nm_pessoa}}</td>
+				<td>{{ itemPessoa.nr_telefone}}</td>
+				<td>{{ itemPessoa.ds_email}}</td>
+				<td>{{ itemPessoa.st_pessoa}}</td>
+				<td>{{ itemPessoa.tp_situacao}}</td>
+				<td><a [routerLink]="['/dados-pessoa',itemPessoa.cd_pessoa,'details']">Detalhes</a></td>
+			</tr>
+			<tr *ngIf="!listaDados.length">
+				<td>&nbsp;</td>
+				<td colspan="6">No Records Found</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<div style="bottom: 80px; position: fixed; margin: 1em;">
+	<a class="btn btn-primary btn-fab" [routerLink]="['/dados-pessoa',-1,'edit']">
+		<i class="material-icons">add</i>
+	</a>
+</div>

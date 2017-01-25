@@ -1,0 +1,1 @@
+export * from './lista_modulos_dados.component';export * from './lista_modulos_dadosDetails.component';export * from './lista_modulos_dadosEdit.component';

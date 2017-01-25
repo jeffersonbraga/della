@@ -1,0 +1,1 @@
+export * from './acao_corretiva_helpdesk_dados.component';export * from './acao_corretiva_helpdesk_dadosDetails.component';export * from './acao_corretiva_helpdesk_dadosEdit.component';

@@ -1,0 +1,20 @@
+<div class="well">
+	<form (ngSubmit)="onSubmit()" #compraForm="ngForm" class="editForm">
+		<div class="form-group"><label>Código</label><input type="number" class="form-control" name="input_cd_compra" [(ngModel)]="compra.cd_compra"></div>
+		<div class="form-group"><label>Fornecedor</label><input type="number" class="form-control" name="input_cd_pessoa" [(ngModel)]="compra.cd_pessoa"></div>
+		<div class="form-group"><label>Nota Fiscal</label><input type="text" class="form-control" name="input_nr_nota_fiscal" [(ngModel)]="compra.nr_nota_fiscal"></div>
+		<div class="form-group"><label>Data compra</label><input type="text" class="form-control" name="input_dt_compra" [(ngModel)]="compra.dt_compra"></div>
+		<div class="form-group"><label>Data entrada</label><input type="text" class="form-control" name="input_dt_entrada_produto" [(ngModel)]="compra.dt_entrada_produto"></div>
+
+<br/>
+
+<compra-dados-produtos [(lista-dados)]="compra.listaProdutos_compra"></compra-dados-produtos>
+
+<br/>
+
+		<button class="btn btn-raised btn-danger" (click)="btnExcluirClickHandler($event)">Excluir</button>
+		<button class="btn btn-default" (click)="onCancel($event)">Cancel</button>&nbsp;&nbsp;
+		<button type="submit" class="btn btn-raised btn-success" [disabled]="!compraForm.valid">Salvar</button>
+		<div class="alert alert-danger" *ngIf="errorMessage != null">{{ errorMessage }}</div>
+	</form>
+</div>

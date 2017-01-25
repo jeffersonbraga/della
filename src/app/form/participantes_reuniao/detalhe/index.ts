@@ -1,0 +1,1 @@
+export * from './participantes_reuniao_dados.component';export * from './participantes_reuniao_dadosDetails.component';export * from './participantes_reuniao_dadosEdit.component';

@@ -1,0 +1,51 @@
+<header>
+        <h3><span class="glyphicon glyphicon-user"></span>&nbsp;&nbsp;Registros de veículos</h3>
+</header> <br /><div class="table">
+
+	<table class="table table-striped table-hover">
+		<thead>
+			<tr>
+				<th sort-by="cd_veiculo" (sorted)="sort($event)">Código</th>
+                <th sort-by="cd_pessoa" (sorted)="sort($event)">Proprietário</th>
+                <th sort-by="nm_veiculo" (sorted)="sort($event)">Veículo</th>
+                <th sort-by="ds_veiculo" (sorted)="sort($event)">Descrição</th>
+                <th sort-by="nr_frota" (sorted)="sort($event)">Frota</th>
+                <th sort-by="nr_placa_veiculo" (sorted)="sort($event)">Placa veículo</th>
+                <th sort-by="nr_ano_veiculo" (sorted)="sort($event)">Ano veículo</th>
+                <th sort-by="nr_placa_reboque" (sorted)="sort($event)">Placa reboque</th>
+                <th sort-by="ds_reboque" (sorted)="sort($event)">Descrição reboque</th>
+                <th sort-by="nr_ano_reboque" (sorted)="sort($event)">Ano reboque</th>
+                <th sort-by="ds_complementar" (sorted)="sort($event)">Descrição complementar</th>
+                <th sort-by="st_veiculo" (sorted)="sort($event)">Situação</th>
+                <th sort-by="st_veiculo" (sorted)="sort($event)">&nbsp;</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr *ngFor="let itemVeiculo of listaDados;">
+				<td>{{ itemVeiculo.cd_veiculo}}</td>
+                <td>{{ itemVeiculo.cd_pessoa}}</td>
+                <td>{{ itemVeiculo.nm_veiculo}}</td>
+                <td>{{ itemVeiculo.ds_veiculo}}</td>
+                <td>{{ itemVeiculo.nr_frota}}</td>
+                <td>{{ itemVeiculo.nr_placa_veiculo}}</td>
+                <td>{{ itemVeiculo.nr_ano_veiculo}}</td>
+                <td>{{ itemVeiculo.nr_placa_reboque}}</td>
+                <td>{{ itemVeiculo.ds_reboque}}</td>
+                <td>{{ itemVeiculo.nr_ano_reboque}}</td>
+                <td>{{ itemVeiculo.ds_complementar}}</td>
+                <td>{{ itemVeiculo.st_veiculo}}</td>
+				<td><a [routerLink]="['/dados-veiculo',itemVeiculo.cd_veiculo,'details']">Detalhes</a></td>
+			</tr>
+			<tr *ngIf="!listaDados.length">
+				<td>&nbsp;</td>
+				<td colspan="6">No Records Found</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<div style="bottom: 80px; position: fixed; margin: 1em;">
+	<a class="btn btn-primary btn-fab" [routerLink]="['/dados-veiculo',-1,'edit']">
+		<i class="material-icons">add</i>
+	</a>
+</div>

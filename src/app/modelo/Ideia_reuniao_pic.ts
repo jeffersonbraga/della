@@ -1,0 +1,1 @@
+export class Ideia_reuniao_pic{cd_ideia_reuniao_pic : number;cd_reuniao_pic : number;cd_pic : number;nr_gravidade : number;nr_tendencia : number;nr_urgencia : number;}

@@ -1,0 +1,1 @@
+export class Config_pesquisa{cd_config_pesquisa : number;cd_usuario : number;cd_programa : number;}

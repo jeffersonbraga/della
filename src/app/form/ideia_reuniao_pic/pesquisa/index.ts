@@ -1,0 +1,1 @@
+export * from './ideia_reuniao_pic.component';

@@ -1,0 +1,1 @@
+import { Routes, RouterModule } from '@angular/router';  import { PaisComponent } from './pais.component';  const pais_routes: Routes = [   { path: 'pais*', pathMatch:'full', redirectTo: '/pais' },   { path: 'pais', component: PaisComponent} ];  export const pais_routing = RouterModule.forChild(pais_routes);

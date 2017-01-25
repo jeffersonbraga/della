@@ -1,0 +1,1 @@
+import { Routes, RouterModule } from '@angular/router';  import { Exame_funcaoComponent } from './exame_funcao.component';  const exame_funcao_routes: Routes = [   { path: 'exame_funcao*', pathMatch:'full', redirectTo: '/exame_funcao' },   { path: 'exame_funcao', component: Exame_funcaoComponent} ];  export const exame_funcao_routing = RouterModule.forChild(exame_funcao_routes);

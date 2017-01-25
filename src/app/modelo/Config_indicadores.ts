@@ -1,0 +1,1 @@
+export class Config_indicadores{cd_config_indicadores : number;vl_posicao_x : number;vl_posicao_y : number;cd_usuario : number;cd_menu_indicadores : number;ds_menu_indicadores : number;cd_periodicidade : number;dt_inicio : string;cd_unidade : number;}

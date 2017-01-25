@@ -1,0 +1,1 @@
+export class Notificacao{cd_notificacao : number;cd_tipo_notificacao : number;st_exibir : number;cd_tabela : number;cd_codigo_parametro : number;tp_operacao : number;}

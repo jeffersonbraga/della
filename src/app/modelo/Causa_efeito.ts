@@ -1,0 +1,1 @@
+export class Causa_efeito{cd_causa_efeito : number;nm_causa_efeito : number;ds_causa_efeito : number;st_causa_efeito : number;vl_prioridade : number;cd_categoria_ocorrencia : number;cd_resp_criar_causa : number;}

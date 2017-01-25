@@ -1,0 +1,1 @@
+export class Proposta_candidato{cd_proposta : number;cd_candidato : number;ds_porposta : string;}

@@ -1,0 +1,1 @@
+export * from './escalonamento_usuario.component';

@@ -1,0 +1,16 @@
+<div class="well">
+	<form (ngSubmit)="onSubmit()" #produtoForm="ngForm" class="editForm">
+		<div class="form-group"><label>Código</label><input type="number" class="form-control" name="input_cd_produto" [(ngModel)]="produto.cd_produto"></div>
+		<div class="form-group"><label>Fabricante</label><input type="number" class="form-control" name="input_cd_pessoa" [(ngModel)]="produto.cd_pessoa"></div>
+		<div class="form-group"><label>Nome</label><input type="text" class="form-control" name="input_nm_produto" [(ngModel)]="produto.nm_produto"></div>
+		<div class="form-group"><label>Descrição</label><input type="text" class="form-control" name="input_ds_produto" [(ngModel)]="produto.ds_produto"></div>
+		<div class="form-group"><label>Quantidade mínima</label><input type="number" class="form-control" name="input_nr_quantidade_minima" [(ngModel)]="produto.nr_quantidade_minima"></div>
+		<div class="form-group"><label>Codígo produto fabricante</label><input type="text" class="form-control" name="input_ds_codigo" [(ngModel)]="produto.ds_codigo"></div>
+		<div class="form-group"><label>Situação</label><input type="number" class="form-control" name="input_st_produto" [(ngModel)]="produto.st_produto"></div>
+		
+        <button class="btn btn-raised btn-danger" (click)="btnExcluirClickHandler($event)">Excluir</button>
+		<button class="btn btn-default" (click)="onCancel($event)">Cancel</button>&nbsp;&nbsp;
+		<button type="submit" class="btn btn-raised btn-success" [disabled]="!produtoForm.valid">Salvar</button>
+		<div class="alert alert-danger" *ngIf="errorMessage != null">{{ errorMessage }}</div>
+	</form>
+</div>

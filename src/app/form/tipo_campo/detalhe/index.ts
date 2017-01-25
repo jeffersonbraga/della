@@ -1,0 +1,1 @@
+export * from './tipo_campo_dados.component';export * from './tipo_campo_dadosDetails.component';export * from './tipo_campo_dadosEdit.component';

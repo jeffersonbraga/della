@@ -1,0 +1,1 @@
+export class Veiculo{cd_veiculo : number;cd_pessoa : number;nm_veiculo : string;ds_veiculo : string;nr_frota : string;nr_placa_veiculo : string;nr_ano_veiculo : number;nr_placa_reboque : string;ds_reboque : string;nr_ano_reboque : number;ds_complementar : string;st_veiculo : number;}

@@ -1,0 +1,1 @@
+export * from './revisao_programa_qualidade_dados.component';export * from './revisao_programa_qualidade_dadosDetails.component';export * from './revisao_programa_qualidade_dadosEdit.component';

@@ -1,0 +1,1 @@
+export * from './produto_dados.component';export * from './produto_dadosDetails.component';export * from './produto_dadosEdit.component';

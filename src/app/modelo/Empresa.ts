@@ -1,0 +1,1 @@
+export class Empresa{cd_empresa : number;nm_empresa : string;ds_razao_social : string;st_empresa : number;}

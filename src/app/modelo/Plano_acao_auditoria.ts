@@ -1,0 +1,1 @@
+export class Plano_acao_auditoria{cd_plano_acao_auditoria : number;cd_plano_acao : number;dt_criacao : string;cd_resposta_exec_auditoria : number;}

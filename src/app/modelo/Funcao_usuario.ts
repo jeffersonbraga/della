@@ -1,0 +1,1 @@
+export class Funcao_usuario{cd_funcao_usuario : number;cd_usuario : number;cd_profissao : number;}

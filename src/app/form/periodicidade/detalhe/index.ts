@@ -1,0 +1,1 @@
+export * from './periodicidade_dados.component';export * from './periodicidade_dadosDetails.component';export * from './periodicidade_dadosEdit.component';

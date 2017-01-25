@@ -1,0 +1,1 @@
+export * from './pre_avaliacao_ideia_pic_dados.component';export * from './pre_avaliacao_ideia_pic_dadosDetails.component';export * from './pre_avaliacao_ideia_pic_dadosEdit.component';

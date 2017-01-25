@@ -1,0 +1,1 @@
+export * from './notificacao_grupo_usuario.component';

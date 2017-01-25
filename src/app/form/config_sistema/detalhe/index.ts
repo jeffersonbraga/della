@@ -1,0 +1,1 @@
+export * from './config_sistema_dados.component';export * from './config_sistema_dadosDetails.component';export * from './config_sistema_dadosEdit.component';

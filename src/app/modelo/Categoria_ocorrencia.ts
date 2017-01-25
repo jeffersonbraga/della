@@ -1,0 +1,1 @@
+export class Categoria_ocorrencia{cd_categoria_ocorrencia : number;cd_categoria_ishikawa : number;cd_diagrama_helpdesk : number;}

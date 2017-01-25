@@ -1,0 +1,1 @@
+export * from './atividades_acao_imediata_dados.component';export * from './atividades_acao_imediata_dadosDetails.component';export * from './atividades_acao_imediata_dadosEdit.component';

@@ -1,0 +1,1 @@
+export class Produto{cd_produto : number;cd_pessoa : number;nm_produto : string;ds_produto : string;nr_quantidade_minima : number;ds_codigo : string;st_produto : number;}

@@ -1,0 +1,1 @@
+export class Menu{cd_menu : number;cd_menu_item : number;cd_programa : number;ds_menu : string;nr_ordem : number;st_visivel : number;cd_modulo : number;vl_valor_abrir : number;}

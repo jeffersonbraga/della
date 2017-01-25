@@ -1,0 +1,1 @@
+export class Diagrama_helpdesk{cd_diagrama_helpdesk : number;cd_diagrama_origem : number;cd_helpdesk_ocorrencia : number;cd_usuario_diagrama : number;dt_criacao_diagrama : string;st_diagrama_helpdesk : number;ds_comentario : number;dt_analise_diagrama : string;cd_usuario_analise : number;}

@@ -1,0 +1,1 @@
+export class Conclusao_auditoria{cd_conclusao_auditoria : number;cd_cronograma_auditoria : number;dt_conclusao_auditoria : string;nr_percentual_atendimento : number;ds_comentario : number;ds_conclusao : number;ds_melhoria : number;cd_faixa_class_auditoria : number;}

@@ -1,0 +1,1 @@
+export class Fiscal_sif{cd_fiscal_sif : number;cd_pessoa : number;ds_senha_acesso : string;dt_cadastro : string;st_fiscal_sif : number;nr_identificacao : string;}

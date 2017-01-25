@@ -1,0 +1,1 @@
+export class Atividades_manutencao{cd_atividades_manutencao : number;cd_manutencao_preventiva : number;cd_atividades : number;ds_como : number;nr_ordem : number;nr_tempo_estimado : number;}

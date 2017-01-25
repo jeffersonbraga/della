@@ -1,0 +1,1 @@
+export * from './operacao_notificacao.component';

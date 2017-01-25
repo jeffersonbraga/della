@@ -1,0 +1,1 @@
+export * from './diagrama_helpdesk_dados.component';export * from './diagrama_helpdesk_dadosDetails.component';export * from './diagrama_helpdesk_dadosEdit.component';

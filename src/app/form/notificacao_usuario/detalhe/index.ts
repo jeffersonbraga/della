@@ -1,0 +1,1 @@
+export * from './notificacao_usuario_dados.component';export * from './notificacao_usuario_dadosDetails.component';export * from './notificacao_usuario_dadosEdit.component';

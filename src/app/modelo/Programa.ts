@@ -1,0 +1,1 @@
+export class Programa{cd_programa : number;ds_programa : string;ds_caminhoprograma : string;cd_tabela : number;tp_programa : number;ds_ajuda_programa : number;cd_campo_filtro : number;}

@@ -1,0 +1,1 @@
+export class Configuracao_helpdesk{cd_configuracao_helpdesk : number;cd_colaborador : number;cd_classificacao_helpdesk : number;cd_natureza_ocorrencia : number;st_recebe_email : number;}

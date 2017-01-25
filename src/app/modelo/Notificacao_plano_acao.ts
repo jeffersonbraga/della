@@ -1,0 +1,1 @@
+export class Notificacao_plano_acao{cd_notificacao_plano_acao : number;st_exibir : number;cd_plano_acao : number;}

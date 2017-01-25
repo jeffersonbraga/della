@@ -1,0 +1,1 @@
+export class Atv_exec_manutencao{cd_atv_exec_manutencao : number;cd_executar_manutencao : number;cd_atividades : number;nr_quantidade : number;nr_tempo_horas : number;ds_atividade_execucao : string;}

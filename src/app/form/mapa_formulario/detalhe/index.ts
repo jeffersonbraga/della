@@ -1,0 +1,1 @@
+export * from './mapa_formulario_dados.component';export * from './mapa_formulario_dadosDetails.component';export * from './mapa_formulario_dadosEdit.component';

@@ -1,0 +1,1 @@
+import { Routes, RouterModule } from '@angular/router';  import { UnidadeComponent } from './unidade.component';  const unidade_routes: Routes = [   { path: 'unidade*', pathMatch:'full', redirectTo: '/unidade' },   { path: 'unidade', component: UnidadeComponent} ];  export const unidade_routing = RouterModule.forChild(unidade_routes);

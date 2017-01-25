@@ -1,0 +1,1 @@
+export * from './municipio_dados.component';export * from './municipio_dadosDetails.component';export * from './municipio_dadosEdit.component';

@@ -1,0 +1,1 @@
+export class Resposta_exec_formulario{cd_resposta_exec_formulario : number;cd_execucao_formulario : number;cd_campo_formulario : number;cd_resposta_campo_formulario : number;ds_resposta_exec_formulario : number;tp_resposta_exec_formulario : number;vl_indice_grid : number;}

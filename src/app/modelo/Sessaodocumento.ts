@@ -1,0 +1,1 @@
+export class Sessaodocumento{cd_sessaodocumento : number;nm_sessaodocumento : string;ds_sessaodocumento : number;st_sessaodocumento : number;cd_departamento : number;cd_unidade : number;}

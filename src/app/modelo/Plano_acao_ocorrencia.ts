@@ -1,0 +1,1 @@
+export class Plano_acao_ocorrencia{cd_plano_acao_ocorrencia : number;cd_resolucao_ocorrencia : number;cd_usuario : number;cd_acao_corretiva : number;st_plano_acao_ocorrencia : number;ds_plano_acao_ocorrencia : number;dt_inicio : string;dt_termino : string;}

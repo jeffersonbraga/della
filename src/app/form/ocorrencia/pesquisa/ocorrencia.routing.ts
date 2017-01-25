@@ -1,0 +1,1 @@
+import { Routes, RouterModule } from '@angular/router';  import { OcorrenciaComponent } from './ocorrencia.component';  const ocorrencia_routes: Routes = [   { path: 'ocorrencia*', pathMatch:'full', redirectTo: '/ocorrencia' },   { path: 'ocorrencia', component: OcorrenciaComponent} ];  export const ocorrencia_routing = RouterModule.forChild(ocorrencia_routes);

@@ -1,0 +1,1 @@
+export * from './config_impressao_dados.component';export * from './config_impressao_dadosDetails.component';export * from './config_impressao_dadosEdit.component';

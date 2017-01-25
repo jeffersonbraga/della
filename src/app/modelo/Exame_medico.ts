@@ -1,0 +1,1 @@
+export class Exame_medico{cd_exame_medico : number;nm_exame_medico : string;ds_exame_medico : number;}

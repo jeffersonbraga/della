@@ -1,0 +1,1 @@
+export class Mapa_formulario{cd_formulario : number;cd_mapa_formulario : number;ds_caminho : number;nr_width : number;nr_height : number;cd_sub_formulario : number;}

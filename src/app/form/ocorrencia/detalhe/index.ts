@@ -1,0 +1,1 @@
+export * from './ocorrencia_dados.component';export * from './ocorrencia_dadosDetails.component';export * from './ocorrencia_dadosEdit.component';

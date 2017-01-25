@@ -1,0 +1,1 @@
+export class Avaliacao_ideia{cd_avaliacao_ideia : number;cd_ideia_reuniao_pic : number;cd_reuniao_pic : number;nr_pontuacao_media : number;st_parecer : number;ds_comentario : number;ds_expectativa : number;ds_critica_melhoria : number;ds_justificativa : number;st_aprovado : number;cd_resp_ava_tecnica : number;cd_resp_ava_financeira : number;}

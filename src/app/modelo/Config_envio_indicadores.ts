@@ -1,0 +1,1 @@
+export class Config_envio_indicadores{cd_config_envio_indicadores : number;dt_notificar : string;cd_config_indicadores : number;vl_mesmo_horario : number;}

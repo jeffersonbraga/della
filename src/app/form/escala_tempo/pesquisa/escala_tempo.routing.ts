@@ -1,0 +1,1 @@
+import { Routes, RouterModule } from '@angular/router';  import { Escala_tempoComponent } from './escala_tempo.component';  const escala_tempo_routes: Routes = [   { path: 'escala_tempo*', pathMatch:'full', redirectTo: '/escala_tempo' },   { path: 'escala_tempo', component: Escala_tempoComponent} ];  export const escala_tempo_routing = RouterModule.forChild(escala_tempo_routes);

@@ -1,0 +1,1 @@
+export * from './registro_treinamento.component';

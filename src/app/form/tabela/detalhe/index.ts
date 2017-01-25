@@ -1,0 +1,1 @@
+export * from './tabela_dados.component';export * from './tabela_dadosDetails.component';export * from './tabela_dadosEdit.component';

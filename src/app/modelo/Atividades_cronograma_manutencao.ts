@@ -1,0 +1,1 @@
+export class Atividades_cronograma_manutencao{cd_atividades_cronograma_manutencao : number;cd_cronograma_manutencao : number;cd_atividades : number;nr_ordem_executar : number;nr_quantidade : number;nr_tempo_estimado : number;vl_custo_previsto : number;}

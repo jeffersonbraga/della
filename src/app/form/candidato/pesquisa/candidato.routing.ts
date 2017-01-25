@@ -1,0 +1,1 @@
+import { Routes, RouterModule } from '@angular/router';  import { CandidatoComponent } from './candidato.component';  const candidato_routes: Routes = [   { path: 'candidato*', pathMatch:'full', redirectTo: '/candidato' },   { path: 'candidato', component: CandidatoComponent} ];  export const candidato_routing = RouterModule.forChild(candidato_routes);

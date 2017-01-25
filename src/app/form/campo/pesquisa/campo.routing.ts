@@ -1,0 +1,1 @@
+import { Routes, RouterModule } from '@angular/router';  import { CampoComponent } from './campo.component';  const campo_routes: Routes = [   { path: 'campo*', pathMatch:'full', redirectTo: '/campo' },   { path: 'campo', component: CampoComponent} ];  export const campo_routing = RouterModule.forChild(campo_routes);

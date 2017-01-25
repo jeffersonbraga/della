@@ -1,0 +1,1 @@
+export class Jhi_persistent_audit_evt_data{event_id : number;name : string;value : string;}

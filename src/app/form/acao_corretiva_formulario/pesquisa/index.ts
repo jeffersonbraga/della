@@ -1,0 +1,1 @@
+export * from './acao_corretiva_formulario.component';

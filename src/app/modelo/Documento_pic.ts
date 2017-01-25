@@ -1,0 +1,1 @@
+export class Documento_pic{cd_documento_pic : number;cd_pic : number;ds_caminho : number;nm_documento : number;}

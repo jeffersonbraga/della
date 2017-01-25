@@ -1,0 +1,1 @@
+export * from './plano_acao_nc_dados.component';export * from './plano_acao_nc_dadosDetails.component';export * from './plano_acao_nc_dadosEdit.component';

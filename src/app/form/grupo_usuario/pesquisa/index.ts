@@ -1,0 +1,1 @@
+export * from './grupo_usuario.component';

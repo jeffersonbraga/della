@@ -1,0 +1,1 @@
+export class Fabricante{cd_fabricante : number;nm_fabricante : string;ds_fabricante : number;}

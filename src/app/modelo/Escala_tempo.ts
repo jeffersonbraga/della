@@ -1,0 +1,1 @@
+export class Escala_tempo{cd_escala_tempo : number;ds_escala_tempo : string;vl_equivalencia_minuto : number;}

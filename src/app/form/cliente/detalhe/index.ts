@@ -1,0 +1,1 @@
+export * from './cliente_dados.component';export * from './cliente_dadosDetails.component';export * from './cliente_dadosEdit.component';

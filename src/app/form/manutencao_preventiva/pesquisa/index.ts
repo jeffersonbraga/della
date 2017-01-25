@@ -1,0 +1,1 @@
+export * from './manutencao_preventiva.component';

@@ -1,0 +1,1 @@
+export * from './configuracao_helpdesk_dados.component';export * from './configuracao_helpdesk_dadosDetails.component';export * from './configuracao_helpdesk_dadosEdit.component';

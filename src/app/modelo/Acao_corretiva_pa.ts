@@ -1,0 +1,1 @@
+export class Acao_corretiva_pa{cd_acao_corretiva_pa : number;cd_plano_acao : number;cd_acao_corretiva : number;}

@@ -1,0 +1,1 @@
+export class Endereco{cd_endereco : number;cd_pessoa : number;cd_municipio : number;ds_lograduro : string;ds_bairro : string;ds_numero : string;ds_complemento : string;}

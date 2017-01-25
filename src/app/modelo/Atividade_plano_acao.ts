@@ -1,0 +1,1 @@
+export class Atividade_plano_acao{cd_atividade_plano_acao : number;cd_plano_acao : number;cd_atividades : number;ds_observacao : number;st_atividade_plano_acao : number;cd_responsavel_execucao : number;ds_caminho_evidencia : number;}

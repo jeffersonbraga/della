@@ -1,0 +1,1 @@
+export * from './permissao_menu_indicadores_dados.component';export * from './permissao_menu_indicadores_dadosDetails.component';export * from './permissao_menu_indicadores_dadosEdit.component';

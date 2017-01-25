@@ -1,0 +1,1 @@
+export class Descricao_funcional{cd_descricao_funcional : number;nm_descricao_funcional : string;ds_descricao_funcional : number;cd_profissao : number;cd_profissao_superior : number;cd_profissao_subordinado : number;}

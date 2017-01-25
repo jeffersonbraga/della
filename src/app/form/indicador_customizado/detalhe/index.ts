@@ -1,0 +1,1 @@
+export * from './indicador_customizado_dados.component';export * from './indicador_customizado_dadosDetails.component';export * from './indicador_customizado_dadosEdit.component';

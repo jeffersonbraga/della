@@ -1,0 +1,1 @@
+export class Grupo_auditoria{cd_grupo_auditoria : number;cd_auditoria : number;nm_grupo_auditoria : string;nr_ordem : number;vl_peso : number;ds_grupo_auditoria : number;}

@@ -1,0 +1,1 @@
+export * from './evidencia_helpdesk.component';

@@ -1,0 +1,1 @@
+export * from './escalonamento_usuario_dados.component';export * from './escalonamento_usuario_dadosDetails.component';export * from './escalonamento_usuario_dadosEdit.component';

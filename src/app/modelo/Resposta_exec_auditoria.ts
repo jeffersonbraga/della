@@ -1,0 +1,1 @@
+export class Resposta_exec_auditoria{cd_resposta_exec_auditoria : number;cd_usuario : number;cd_execucao_auditoria : number;cd_grupo_auditoria : number;cd_pergunta_auditoria : number;cd_resposta_auditoria : number;ds_justificativa : number;}

@@ -1,0 +1,1 @@
+export * from './configuracao_ouvidoria.component';

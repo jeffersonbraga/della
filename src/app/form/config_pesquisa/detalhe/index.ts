@@ -1,0 +1,1 @@
+export * from './config_pesquisa_dados.component';export * from './config_pesquisa_dadosDetails.component';export * from './config_pesquisa_dadosEdit.component';

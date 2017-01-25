@@ -1,0 +1,1 @@
+export * from './registro_treinamento_dados.component';export * from './registro_treinamento_dadosDetails.component';export * from './registro_treinamento_dadosEdit.component';

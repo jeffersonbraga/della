@@ -1,0 +1,1 @@
+export class Avaliacao_reuniao{cd_avaliacao_reuniao : number;cd_reuniao_pic : number;dt_inicio : string;dt_fim : string;st_avaliacao_reuniao : number;}

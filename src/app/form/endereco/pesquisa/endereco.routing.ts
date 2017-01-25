@@ -1,0 +1,1 @@
+import { Routes, RouterModule } from '@angular/router';  import { EnderecoComponent } from './endereco.component';  const endereco_routes: Routes = [   { path: 'endereco*', pathMatch:'full', redirectTo: '/endereco' },   { path: 'endereco', component: EnderecoComponent} ];  export const endereco_routing = RouterModule.forChild(endereco_routes);

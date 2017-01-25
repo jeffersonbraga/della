@@ -1,0 +1,1 @@
+export * from './tipo_turno_dados.component';export * from './tipo_turno_dadosDetails.component';export * from './tipo_turno_dadosEdit.component';

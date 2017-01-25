@@ -1,0 +1,1 @@
+export class Estado{cd_estado : number;nm_estado : string;ds_uf : string;cd_uf : number;cd_pais : number;}

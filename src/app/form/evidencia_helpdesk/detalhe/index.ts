@@ -1,0 +1,1 @@
+export * from './evidencia_helpdesk_dados.component';export * from './evidencia_helpdesk_dadosDetails.component';export * from './evidencia_helpdesk_dadosEdit.component';

@@ -1,0 +1,1 @@
+export * from './plano_acao_formulario.component';

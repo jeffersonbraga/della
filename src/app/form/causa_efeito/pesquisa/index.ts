@@ -1,0 +1,1 @@
+export * from './causa_efeito.component';

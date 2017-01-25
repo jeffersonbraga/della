@@ -1,0 +1,1 @@
+export * from './permissao_padrao.component';

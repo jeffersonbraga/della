@@ -1,0 +1,1 @@
+export * from './campo_indicador_dados.component';export * from './campo_indicador_dadosDetails.component';export * from './campo_indicador_dadosEdit.component';

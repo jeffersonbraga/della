@@ -1,0 +1,1 @@
+export class Reuniao{cd_reuniao : number;nm_reuniao : number;ds_pauta : number;dt_inicio : string;dt_fim : string;st_reuniao : number;cd_usuario_coordenador : number;}

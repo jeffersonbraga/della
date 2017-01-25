@@ -1,0 +1,1 @@
+export * from './pergunta_avaliacao_ideia.component';

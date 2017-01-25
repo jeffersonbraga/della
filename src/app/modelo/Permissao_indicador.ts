@@ -1,0 +1,1 @@
+export class Permissao_indicador{cd_permissao_indicador : number;cd_indicador_customizado : number;cd_usuario : number;}

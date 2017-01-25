@@ -1,0 +1,1 @@
+export * from './ponto_mapa.component';

@@ -1,0 +1,1 @@
+export * from './fluxograma_dados.component';export * from './fluxograma_dadosDetails.component';export * from './fluxograma_dadosEdit.component';

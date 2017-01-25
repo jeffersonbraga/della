@@ -1,0 +1,1 @@
+export * from './cronograma_manutencao.component';

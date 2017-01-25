@@ -1,0 +1,1 @@
+export class Programa_qualidade{cd_programa_qualidade : number;nm_programa_qualidade : number;ds_programa_qualidade : number;}

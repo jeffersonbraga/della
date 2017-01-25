@@ -1,0 +1,1 @@
+export * from './pessoa_juridica.component';

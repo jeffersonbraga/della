@@ -1,0 +1,1 @@
+export class Acao_corretiva{cd_acao_corretiva : number;nm_acao_corretiva : number;ds_acao_corretiva : number;}

@@ -1,0 +1,1 @@
+export * from './resposta_campo_formulario_dados.component';export * from './resposta_campo_formulario_dadosDetails.component';export * from './resposta_campo_formulario_dadosEdit.component';

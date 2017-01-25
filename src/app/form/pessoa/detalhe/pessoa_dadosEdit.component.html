@@ -1,0 +1,19 @@
+<div class="well">
+	<form (ngSubmit)="onSubmit()" #pessoaForm="ngForm" class="editForm">
+		<div class="form-group"><label>Código</label><input type="number" class="form-control" name="input_cd_pessoa" [(ngModel)]="pessoa.cd_pessoa" disabled=""></div>
+		<div class="form-group"><label for="input_nm_pessoa">Nome</label><input type="text" class="form-control" name="input_nm_pessoa" [(ngModel)]="pessoa.nm_pessoa"></div>
+		<div class="form-group"><label>Gênero</label><input type="number" class="form-control" name="input_tp_sexo" [(ngModel)]="pessoa.tp_sexo"></div>
+		<div class="form-group"><label>Telefone</label><input type="text" class="form-control" name="input_nr_telefone" [(ngModel)]="pessoa.nr_telefone"></div>
+		<div class="form-group"><label>Email</label><input type="text" class="form-control" name="input_ds_email" [(ngModel)]="pessoa.ds_email"></div>
+		<div class="form-group"><label>Status</label><input type="number" class="form-control" name="input_st_pessoa" [(ngModel)]="pessoa.st_pessoa"></div>
+		<div class="form-group"><label>CPF</label><input type="text" class="form-control" name="input_nr_cpf" [(ngModel)]="pessoa.nr_cpf"></div>
+		<div class="form-group"><label>RG</label><input type="text" class="form-control" name="input_nr_registro" [(ngModel)]="pessoa.nr_registro"></div>
+		<div class="form-group"><label>Situação</label><input type="number" class="form-control" name="input_tp_situacao" [(ngModel)]="pessoa.tp_situacao"></div>
+		<div class="form-group"><label>Dt. Nascimento</label><input type="datetime" class="form-control" name="input_dt_nascimento" [(ngModel)]="pessoa.dt_nascimento"></div>
+		<div class="form-group"><label>Dt. Cadastro</label><input type="datetime" class="form-control" name="input_dt_cadastro" [(ngModel)]="pessoa.dt_cadastro"></div>
+		<button class="btn btn-raised btn-danger" (click)="btnExcluirClickHandler($event)">Excluir</button>
+		<button class="btn btn-default" (click)="onCancel($event)">Cancel</button>&nbsp;&nbsp;
+		<button type="submit" class="btn btn-raised btn-success" [disabled]="!pessoaForm.valid">Salvar</button>
+		<div class="alert alert-danger" *ngIf="errorMessage != null">{{ errorMessage }}</div>
+	</form>
+</div>

@@ -1,0 +1,1 @@
+import { Routes, RouterModule } from '@angular/router';  import { Tipo_turnoComponent } from './tipo_turno.component';  const tipo_turno_routes: Routes = [   { path: 'tipo_turno*', pathMatch:'full', redirectTo: '/tipo_turno' },   { path: 'tipo_turno', component: Tipo_turnoComponent} ];  export const tipo_turno_routing = RouterModule.forChild(tipo_turno_routes);

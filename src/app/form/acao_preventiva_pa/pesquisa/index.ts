@@ -1,0 +1,1 @@
+export * from './acao_preventiva_pa.component';

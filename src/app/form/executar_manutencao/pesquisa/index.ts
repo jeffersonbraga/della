@@ -1,0 +1,1 @@
+export * from './executar_manutencao.component';

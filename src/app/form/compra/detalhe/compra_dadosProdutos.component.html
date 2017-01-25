@@ -1,0 +1,39 @@
+<div class="panel panel-info">
+	<div class="panel-heading">
+		<h2 class="panel-title">Produtos da compra</h2>
+	</div>
+	<div class="panel-body">
+		<div>
+				<div class="form-group"><input type="hidden" class="form-control" name="input_cd_produto_compra" [(ngModel)]="produto_compra.cd_produto_compra"></div>
+				<div class="form-group"><label>Produto</label><input type="number" class="form-control" name="input_cd_produto" [(ngModel)]="produto_compra.cd_produto"></div>
+				<div class="form-group"><input type="hidden" class="form-control" name="input_cd_compra" [(ngModel)]="produto_compra.cd_compra"></div>
+				<div class="form-group"><label>Quantidade</label><input type="number" class="form-control" name="input_nr_quantidade" [(ngModel)]="produto_compra.nr_quantidade"></div>
+				<div class="form-group"><label>Valor</label><input type="number" class="form-control" name="input_vl_produto_compra" [(ngModel)]="produto_compra.vl_produto_compra"></div>
+				<a (click)="btnExcluirClickHandler($event)" class="btn btn-raised btn-danger">Excluir item</a>
+				<a (click)="btnCancelarClickHandler($event)" class="btn btn-default">Cancelar</a>&nbsp;&nbsp;
+          		<a (click)="addItemLista($event)" class="btn btn-raised btn-success">Salvar item</a>
+				<a (click)="btnNovoClickHandler($event)" class="btn btn-raised btn-default">Novo item</a>
+		</div>
+		<br/>
+		<div class="table">
+			<table class="table table-striped table-hover">
+				<thead>
+					<tr>
+						<th sort-by="cd_produto" (sorted)="sort($event)">Produto</th>
+						<th sort-by="nr_quantidade" (sorted)="sort($event)">Quantidade</th>
+						<th sort-by="vl_produto_compra" (sorted)="sort($event)">Valor</th>
+						<th sort-by="vl_produto_compra" (sorted)="sort($event)">&nbsp;</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr *ngFor="let itemProduto_compra of listaProdutoCompra;">
+						<td>{{ itemProduto_compra.cd_produto}}</td>
+						<td>{{ itemProduto_compra.nr_quantidade}}</td>
+						<td>{{ itemProduto_compra.vl_produto_compra}}</td>
+						<td>&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>

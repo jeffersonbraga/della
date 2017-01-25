@@ -1,0 +1,1 @@
+export * from './descritivo_treinamento.component';

@@ -1,0 +1,1 @@
+export class Profissao{cd_profissao : number;ds_profissao : string;}

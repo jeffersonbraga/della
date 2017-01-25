@@ -1,0 +1,1 @@
+export * from './classificacao_auditoria.component';

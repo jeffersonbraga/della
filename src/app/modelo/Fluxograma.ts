@@ -1,0 +1,1 @@
+export class Fluxograma{cd_fluxograma : number;nm_fluxograma : string;ds_fluxograma : number;cd_usuario : number;}

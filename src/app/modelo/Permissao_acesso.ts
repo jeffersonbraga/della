@@ -1,0 +1,1 @@
+export class Permissao_acesso{cd_permissao_acesso : number;cd_programa : number;cd_usuario : number;tp_salvar : number;tp_excluir : number;tp_visualizar : number;tp_especial : number;tp_editar : number;cd_unidade : number;}

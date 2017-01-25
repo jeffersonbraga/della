@@ -1,0 +1,1 @@
+export class Indicador_customizado{cd_indicador_customizado : number;nm_indicador_customizado : number;nr_meta_conformidade : number;nr_aceite_naoconformidade : number;}

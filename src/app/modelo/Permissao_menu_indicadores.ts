@@ -1,0 +1,1 @@
+export class Permissao_menu_indicadores{cd_permissao_menu_indicadores : number;cd_usuario : number;cd_menu_indicadores : number;cd_unidade : number;tp_visualizar : number;cd_modulo_indicadores : number;}

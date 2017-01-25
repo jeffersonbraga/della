@@ -1,0 +1,1 @@
+export class Setor{cd_setor : number;cd_departamento : number;nm_setor : string;ds_setor : number;cd_responsavel_setor : number;cd_unidade : number;}

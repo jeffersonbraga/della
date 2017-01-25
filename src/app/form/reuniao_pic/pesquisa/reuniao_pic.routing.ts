@@ -1,0 +1,1 @@
+import { Routes, RouterModule } from '@angular/router';  import { Reuniao_picComponent } from './reuniao_pic.component';  const reuniao_pic_routes: Routes = [   { path: 'reuniao_pic*', pathMatch:'full', redirectTo: '/reuniao_pic' },   { path: 'reuniao_pic', component: Reuniao_picComponent} ];  export const reuniao_pic_routing = RouterModule.forChild(reuniao_pic_routes);

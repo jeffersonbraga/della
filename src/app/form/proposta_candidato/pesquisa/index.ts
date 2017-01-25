@@ -1,0 +1,1 @@
+export * from './proposta_candidato.component';

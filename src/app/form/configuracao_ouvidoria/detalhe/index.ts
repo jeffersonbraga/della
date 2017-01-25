@@ -1,0 +1,1 @@
+export * from './configuracao_ouvidoria_dados.component';export * from './configuracao_ouvidoria_dadosDetails.component';export * from './configuracao_ouvidoria_dadosEdit.component';

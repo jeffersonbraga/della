@@ -1,0 +1,1 @@
+export class Candidato{cd_candidato : number;cd_pessoa : number;ds_nome_candidato : string;ds_numero : string;ds_partido : string;ds_facebook : string;ds_instagram : string;ds_tweeter : string;}

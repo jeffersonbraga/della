@@ -1,0 +1,1 @@
+export * from './classificacao_helpdesk.component';

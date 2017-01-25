@@ -1,0 +1,1 @@
+export * from './funcao_usuario_dados.component';export * from './funcao_usuario_dadosDetails.component';export * from './funcao_usuario_dadosEdit.component';

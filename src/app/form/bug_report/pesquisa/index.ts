@@ -1,0 +1,1 @@
+export * from './bug_report.component';

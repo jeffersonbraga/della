@@ -1,0 +1,1 @@
+export * from './campo_indicador.component';

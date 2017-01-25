@@ -1,0 +1,1 @@
+export * from './treinamento_funcao_dados.component';export * from './treinamento_funcao_dadosDetails.component';export * from './treinamento_funcao_dadosEdit.component';

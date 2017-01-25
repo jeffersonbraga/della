@@ -1,0 +1,1 @@
+export class Modulo{cd_modulo : number;ds_modulo : string;}

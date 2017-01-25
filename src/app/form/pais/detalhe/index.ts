@@ -1,0 +1,1 @@
+export * from './pais_dados.component';export * from './pais_dadosDetails.component';export * from './pais_dadosEdit.component';
